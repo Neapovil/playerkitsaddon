@@ -6,3 +6,4 @@ author: Neapovil
 website: https://github.com/neapovil/playerkitsaddon
 depend:
   - PlayerKits
+  - CommandAPI
