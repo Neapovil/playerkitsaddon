@@ -3,7 +3,7 @@ plugins {
 }
 
 version = '1.18.1'
-group = 'com.github.neapovil.latency'
+group = 'com.github.neapovil.playerkitsaddon'
 compileJava.options.encoding = 'UTF-8'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
