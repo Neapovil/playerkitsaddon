@@ -33,7 +33,7 @@ public final class PlayerKitsAddon extends JavaPlugin implements Listener
     }
 
     @EventHandler
-    public void playerInteract(PlayerInteractEvent event)
+    private void playerInteract(PlayerInteractEvent event)
     {
         if (event.getClickedBlock() == null)
         {
